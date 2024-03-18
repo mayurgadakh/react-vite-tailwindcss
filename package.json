@@ -1,0 +1,28 @@
+{
+  "name": "react-vite-tailwindcss",
+  "version": "1.0.0",
+  "description": "A package for creating a basic React-Vite app with all the configurations of Tailwind CSS",
+  "main": "index.js",
+  "bin": {
+    "react-vite-tailwindcss": "index.js"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "js",
+    "vite",
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "setup"
+  ],
+  "author": "Mayur Gadakh",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "vite": "^2.7.10",
+    "tailwindcss": "^3.0.10",
+    "postcss": "^8.4.8",
+    "autoprefixer": "^10.4.2"
+  }
+}
