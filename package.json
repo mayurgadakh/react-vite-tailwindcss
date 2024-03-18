@@ -16,6 +16,10 @@
     "css",
     "setup"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayurgadakh/react-vite-tailwindcss.git"
+  },
   "author": "Mayur Gadakh",
   "license": "MIT",
   "type": "commonjs",
